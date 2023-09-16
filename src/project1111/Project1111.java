@@ -15,6 +15,7 @@ public class Project1111 {
      */
     public static void main(String[] args) {
         System.out.println("I love cheese and parmesan!");
+        System.out.println("I do not like cheese and parmesan");
     }
     
 }
